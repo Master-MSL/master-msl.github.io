@@ -9,15 +9,15 @@
 
 <channel>
 	<title>Master Management software libero &#8211; Management del Software Libero</title>
-	<atom:link href="http://localhost/wordpress/category/master-management-software-libero/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://anaconda.polito.it/category/master-management-software-libero/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 07 Sep 2018 10:03:51 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">149751466</site>	<item>
 		<title>Seminario conclusivo della 2° edizione del Master in Management del Software libero</title>
 		<link>/2018/08/02/seminario-conclusivo-della-2-edizione-del-master-in-management-del-software-libero/</link>
 		<pubDate>Thu, 02 Aug 2018 20:20:23 +0000</pubDate>
@@ -42,7 +42,7 @@ I projetc work daranno lo spunto per un dibattito tra i partecipanti.<br />
 Questa seconda edizione ha capitalizzato l’esperienza positiva della precedente e l’approccio interdisciplinare ha permesso di acquisire le competenze necessarie a rispondere alle sempre più pressanti esigenze di innovazione da parte delle aziende e delle pubbliche amministrazioni ma anche di partecipare alle community di sviluppo open, infatti si l’occasione per creare una community che favorisca lo sviluppo del software libero nelle PA piemontesi.</p>
 <p><a href="https://multiblog.uniupo.it/eventi/conferenze-e-seminari/atto-finale-regione-il-master-management-del-software-libero">Il programma della giornata del 14 settembre 2018</a></p>
 ]]></content:encoded>
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">63</post-id>	</item>
 		<item>
 		<title>Il Project Work</title>
 		<link>/2018/07/27/ciao-mondo/</link>
@@ -87,6 +87,6 @@ In questo modo si possono mettere alla prova le conoscenze acquisite per realizz
 ]]></content:encoded>
 			<wfw:commentRss>/2018/07/27/ciao-mondo/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-		</item>
+	<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
 	</channel>
 </rss>

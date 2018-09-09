@@ -9,15 +9,15 @@
 
 <channel>
 	<title>LibreOffice &#8211; Management del Software Libero</title>
-	<atom:link href="http://localhost/wordpress/tag/libreoffice/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://anaconda.polito.it/tag/libreoffice/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 07 Sep 2018 10:03:51 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">149751466</site>	<item>
 		<title>Il Project Work</title>
 		<link>/2018/07/27/ciao-mondo/</link>
 		<comments>/2018/07/27/ciao-mondo/#comments</comments>
@@ -61,6 +61,6 @@ In questo modo si possono mettere alla prova le conoscenze acquisite per realizz
 ]]></content:encoded>
 			<wfw:commentRss>/2018/07/27/ciao-mondo/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-		</item>
+	<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
 	</channel>
 </rss>
