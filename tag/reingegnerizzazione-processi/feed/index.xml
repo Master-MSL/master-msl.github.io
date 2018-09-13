@@ -12,7 +12,7 @@
 	<atom:link href="http://anaconda.polito.it/tag/reingegnerizzazione-processi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 13 Sep 2018 14:29:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Sep 2018 16:57:12 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -38,7 +38,8 @@
 		<category><![CDATA[UNIUPO]]></category>
 
 		<guid isPermaLink="false">/?p=1</guid>
-		<description><![CDATA[Il Project Work è uno strumento che consente agli allievi di applicare le conoscenze acquisite durante il Master in “Management del Software libero” al mondo del lavoro. In questo modo si possono mettere alla prova le conoscenze acquisite per realizzare...]]></description>
+		<description><![CDATA[Il Project Work è uno strumento che consente agli allievi di applicare le conoscenze acquisite durante il Master in “Management del Software libero” al mondo del lavoro.
+In questo modo si possono mettere alla prova le conoscenze acquisite per realizzare e governare la migrazione dal software proprietario al software libero,  l’acquisizione di software libero nella PA, la gestione degli impatti di cambiamento sui contesti e sulle persone.]]></description>
 				<content:encoded><![CDATA[<p style="text-align: justify;">Il Project Work è uno strumento che consente agli allievi di applicare le conoscenze acquisite durante il Master in “Management del Software libero” al mondo del lavoro.<br />
 In questo modo si possono mettere alla prova le conoscenze acquisite per realizzare e governare la migrazione dal software proprietario al software libero,  l’acquisizione di software libero nella PA, la gestione degli impatti di cambiamento sui contesti e sulle persone.</p>
 <div id="attachment_533" style="width: 522px" class="wp-caption aligncenter"><img class="wp-image-533" src="/wp-content/uploads/2018/07/wordcloud-300x87.jpg" alt="" width="512" height="148" srcset="/wp-content/uploads/2018/07/wordcloud-300x87.jpg 300w, /wp-content/uploads/2018/07/wordcloud-768x222.jpg 768w, /wp-content/uploads/2018/07/wordcloud-1024x296.jpg 1024w" sizes="(max-width: 512px) 100vw, 512px" /><p class="wp-caption-text">Amministrazioni pubbliche coinvolte nei PWS della II edizione del Master in Management del Software Libero.</p></div>
